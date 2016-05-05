@@ -1,0 +1,32 @@
+{
+  "name": "img-sal-r282",
+  "version": "1.0.0",
+  "description": "FreecodeCamp Image Search Abstration Layer API",
+  "main": "server.js",
+  "dependencies": {
+    "bing.search": "^1.0.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "mongoose": "^4.3.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoayush/image-search.git"
+  },
+  "keywords": [
+    "leoayush",
+    "Abstraction",
+    "Layer",
+    "API",
+    "FCC"
+  ],
+  "author": "Ayush",
+  "homepage": "https://github.com/leoayush/image-search"
+}
